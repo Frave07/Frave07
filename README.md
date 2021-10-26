@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on be better every day.
 - 🌱 I’m currently learning Typescript.
+- 🌱 Currently working on Flutter.
 - 👯 I’m looking to collaborate on good projects.
 
 ## ⚡ Technologies
