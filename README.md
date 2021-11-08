@@ -2,7 +2,7 @@
 
 #### 📬 Find me at
 [![Youtube Badge](http://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube&link=https://cutt.ly/pckBg9D)](https://cutt.ly/pckBg9D)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)]()
+<a href="mailto:frave.developer@gmail.com"><img src="https://img.shields.io/badge/-Frave.developer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&&logo=Instagram&logoColor=white&link=https://www.instagram.com/frave_developer)](https://www.instagram.com/frave_developer)
 
 - 🔭 I’m currently working on be better every day.
