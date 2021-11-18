@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on be better every day.
 - 🌱 I’m currently learning Typescript.
 - 🌱 Currently working on Flutter.
-- 👯 I’m looking to collaborate on good projects.
 
 ## ⚡ Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
